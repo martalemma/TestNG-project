@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-12-08T19:42:02 CST" name="Default suite" finished-at="2022-12-08T19:42:09 CST" duration-ms="7545">
+  <suite started-at="2022-12-19T18:30:09 CST" name="Default suite" finished-at="2022-12-19T18:30:13 CST" duration-ms="3972">
     <groups>
     </groups>
-    <test started-at="2022-12-08T19:42:02 CST" name="Default test" finished-at="2022-12-08T19:42:09 CST" duration-ms="7545">
+    <test started-at="2022-12-19T18:30:09 CST" name="Default test" finished-at="2022-12-19T18:30:13 CST" duration-ms="3972">
       <class name="session5.TestNG">
-        <test-method is-config="true" signature="readConfig()[pri:0, instance:session5.TestNG@3e84448c]" started-at="2022-12-08T19:42:02 CST" name="readConfig" finished-at="2022-12-08T19:42:02 CST" duration-ms="8" status="PASS">
+        <test-method is-config="true" signature="readConfig()[pri:0, instance:session5.TestNG@3e84448c]" started-at="2022-12-19T18:30:09 CST" name="readConfig" finished-at="2022-12-19T18:30:09 CST" duration-ms="6" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- readConfig -->
-        <test-method is-config="true" signature="init()[pri:0, instance:session5.TestNG@3e84448c]" started-at="2022-12-08T19:42:02 CST" name="init" finished-at="2022-12-08T19:42:05 CST" duration-ms="2795" status="PASS">
+        <test-method is-config="true" signature="init()[pri:0, instance:session5.TestNG@3e84448c]" started-at="2022-12-19T18:30:10 CST" name="init" finished-at="2022-12-19T18:30:12 CST" duration-ms="2195" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- init -->
-        <test-method signature="addCustomer()[pri:0, instance:session5.TestNG@3e84448c]" started-at="2022-12-08T19:42:05 CST" name="addCustomer" finished-at="2022-12-08T19:42:09 CST" duration-ms="4702" status="PASS">
+        <test-method signature="addCustomer()[pri:0, instance:session5.TestNG@3e84448c]" started-at="2022-12-19T18:30:12 CST" name="addCustomer" finished-at="2022-12-19T18:30:13 CST" duration-ms="1739" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- addCustomer -->

@@ -5,8 +5,9 @@
     <classes>
       <class name="session5.TestNG">
         <methods>
-          <include name="launchBroweser"/>
-          <include name="login"/>
+          <include name="init"/>
+          <include name="readConfig"/>
+          <include name="addCustomer"/>
         </methods>
       </class> <!-- session5.TestNG -->
     </classes>

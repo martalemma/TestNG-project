@@ -27,7 +27,7 @@ public class TestNG {
 	String url;
 	
 	By CustomersField = By.xpath("//ul[@id='side-menu']/li[3]/a/span[1]");
-	By AddCustomerFiled = By.linkText("Add Customer");
+	By AddCustomerFiled = By.xpath("//a[text()='Add Customer']");
 	By FullNameField = By.xpath("//input[@id='account']");
 	By CompanyField = By.xpath("//select[@id='cid']");
 	By EmailField = By.xpath("//input[@id='email']");
